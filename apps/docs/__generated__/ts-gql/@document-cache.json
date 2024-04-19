@@ -1,0 +1,47 @@
+{
+  "version": "ts-gql-document-extractor@v3,@babel/parser@7.23.3",
+  "integrity": "__TS_GQL_INTEGRITY_2a2183bf27cc61af67d531bc0daed6a8_TS_GQL_INTEGRITY__",
+  "cache": {
+    "/Users/udhaya/git/my-next-app/apps/docs/app/layout.tsx": {
+      "hash": "750a806342aa569862032bf7abdc2bbd",
+      "errors": [],
+      "documents": []
+    },
+    "/Users/udhaya/git/my-next-app/apps/docs/app/page.tsx": {
+      "hash": "145f8ba144329a2924a9d9528dca49f3",
+      "errors": [],
+      "documents": []
+    },
+    "/Users/udhaya/git/my-next-app/apps/docs/__generated__/ts-gql/@introspection.ts": {
+      "hash": "da95c0ab4f6f6ea630006c66b871fcbc",
+      "errors": [],
+      "documents": []
+    },
+    "/Users/udhaya/git/my-next-app/apps/docs/__generated__/ts-gql/Hello.ts": {
+      "hash": "4415d96d15fb86a180aaa77e61ec181b",
+      "errors": [],
+      "documents": []
+    },
+    "/Users/udhaya/git/my-next-app/apps/docs/app/graphql/queries.ts": {
+      "hash": "477e11e20eb20729462e76d329045302",
+      "errors": [],
+      "documents": [
+        {
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 30,
+              "index": 79
+            },
+            "end": {
+              "line": 9,
+              "column": 1,
+              "index": 134
+            }
+          },
+          "document": "\n  query Hello {\n    hello {\n      message\n    }\n  }\n"
+        }
+      ]
+    }
+  }
+}
